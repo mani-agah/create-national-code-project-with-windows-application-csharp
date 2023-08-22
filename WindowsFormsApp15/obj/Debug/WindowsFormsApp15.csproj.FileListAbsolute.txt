@@ -1,0 +1,15 @@
+C:\Users\msaga\Desktop\WindowsFormsApp15\WindowsFormsApp15\bin\Debug\WindowsFormsApp15.exe.config
+C:\Users\msaga\Desktop\WindowsFormsApp15\WindowsFormsApp15\bin\Debug\WindowsFormsApp15.exe
+C:\Users\msaga\Desktop\WindowsFormsApp15\WindowsFormsApp15\bin\Debug\WindowsFormsApp15.pdb
+C:\Users\msaga\Desktop\WindowsFormsApp15\WindowsFormsApp15\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\msaga\Desktop\WindowsFormsApp15\WindowsFormsApp15\bin\Debug\itextsharp.dll
+C:\Users\msaga\Desktop\WindowsFormsApp15\WindowsFormsApp15\bin\Debug\itextsharp.xml
+C:\Users\msaga\Desktop\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.csproj.AssemblyReference.cache
+C:\Users\msaga\Desktop\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.csproj.SuggestedBindingRedirects.cache
+C:\Users\msaga\Desktop\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.Form1.resources
+C:\Users\msaga\Desktop\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.Properties.Resources.resources
+C:\Users\msaga\Desktop\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.csproj.GenerateResource.cache
+C:\Users\msaga\Desktop\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.csproj.CoreCompileInputs.cache
+C:\Users\msaga\Desktop\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.csproj.CopyComplete
+C:\Users\msaga\Desktop\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.exe
+C:\Users\msaga\Desktop\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.pdb
